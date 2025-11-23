@@ -1,0 +1,1 @@
+print("Hello world. Lesson 3. Application 1.")
